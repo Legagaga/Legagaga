@@ -40,16 +40,18 @@
 </div>
 
 ---
+ ### 💻 А вот тут вы можете посмотреть на то, что я уже сделала:
 
+<p> 
+ <ul>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+</ul>
+</p>
 
-
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
