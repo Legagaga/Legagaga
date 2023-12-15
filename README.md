@@ -44,14 +44,12 @@
 
 <p> 
  <ul>
-<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
-<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+<li>  <a href="https://github.com/Legagaga/Testing-Documentation"> Тестовая документация: веб-приложение и мобильное приложение</a>  </li>
+<li>  <a href="https://github.com/Legagaga/Postman"> Моя коллекция в Postman </a>   </li>
+<li> <a href="https://github.com/Legagaga/SQL-MongoDB"> Работа с реляционными, нереляционными БД MySQL&MongoDB</a>   </li>
+<li> <a href="https://github.com/Legagaga/Charles"> Работа с CharlesProxy</a>  </li>
+<li> <a href="https://github.com/Legagaga/Bash-Git"> Команды bash и git </a>  </li>
+
 </ul>
 </p>
 
